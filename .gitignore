@@ -1,0 +1,10 @@
+# 编译产物（本地生成，不需要上传）
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# 本地开发工具
+.claude/
+.vscode/
